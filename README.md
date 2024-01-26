@@ -1,0 +1,2 @@
+# ImageRecognitionProject
+Projeto Azure ML 
